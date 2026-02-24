@@ -8,7 +8,8 @@
 
 ## How We Work
 
-- Files folder: `C:\Users\damia\OneDrive\Desktop\eddy` (Windows path - may need mapping to workspace)
+- **GitHub repo:** https://github.com/eddythedog2020/eddy
+- Files are version-controlled and pushed to GitHub
 - Keep things tidy with files in folders
 - Damian likes organization
 
