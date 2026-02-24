@@ -1,0 +1,12 @@
+# OpenClaw internal
+.openclaw/
+
+# PI session data
+.pi/
+
+# Memory folder (daily notes) - keep these local for now
+memory/
+
+# OS files
+.DS_Store
+Thumbs.db
