@@ -9,6 +9,7 @@
 ## How We Work
 
 - **GitHub repo:** https://github.com/eddythedog2020/eddy
+- **Website:** https://eddy-oc.netlify.app/
 - Files are version-controlled and pushed to GitHub
 - Keep things tidy with files in folders
 - Damian likes organization
